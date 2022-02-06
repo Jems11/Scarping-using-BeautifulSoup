@@ -1,0 +1,28 @@
+,Title,Details,Author
+0,HSE’s IT System suffers significant cyber attack,"
+
+
+
+On the morning of Friday May the 14th 2021 the Irish Health Services Executive (HSE) was forced to shut down its IT systems after it was the victim of a harmful ransomware attack. As a precaution against the attack, the HSE made the decision to shut down its systems, which will allow it time to assess the situation and understand the impact.
+Dublin’s Rotunda Hospital cancelled most of its outpatient visits except for expectant mothers 36 weeks pregnant or later. It also said that any patients with urgent concerns should attend as normal. 
+The HSE apologised to anyone affected and confirmed that all COVID-19 vaccinations are going ahead as planned.
+
+We apologise for inconvenience caused to patients and to the public and will give further information as it becomes available. Vaccinations not effected are going ahead as planned.
+— HSE Ireland (@HSELive) May 14, 2021
+
+The HSE is working with the national security cyber team, Gardaí and third-party cyber support teams. The HSE’s central servers, in which data is stored, were the focal point of the attack. As of Friday, the 14th of May 2021, there had been no ransom demand made by the attackers. 
+Cork University hospital (CUH) has also taken measures in response to the attack. It said it will be limited in the numbers and types of services it can provide to patients. Professor Seamus O’Reilly, consultant oncologist at CUH, told RTÉ Radio’s Morning Ireland that the situation was very distressing for patients of the hospital. He also stated how “utterly reliant we are on IT systems,” and that this cyber-attack was putting further pressure on a system that was already under pressure because of the Covid-19 pandemic. 
+This attack on the HSE’s IT systems only demonstrates what we already know. That is, cyber criminals are becoming more and more sophisticated in their methods and capabilities for gaining access to our personal data. Cyber criminals very often target an organisation or government body’s IT system with the sole purpose of making money. They can make money through fraud, the sale of valuable information or even ransom. In general attackers will, in the first instance, use commodity tools and techniques to probe your systems for an exploitable vulnerability. Bespoke capabilities are likely to follow this initial probe if this is a targeted attack.
+What are the stages of a Cyber Attack?
+It is useful information for organisations and government bodies to know what they can look out for when a cyber attack is planned. The following points are the stages that cyber criminals take when carrying out a cyber-attack: 
+
+Survey: Attackers will use any means available to find technical, procedural or physical vulnerabilities in an organisation’s systems, which they can attempt to exploit. They can use publicly available information such as social media. Hackers can also employ commodity toolkits such as network scanning tools to collect and assess any information about the organisation’s computers, security systems and personnel. Attackers will also use social engineering (often via social media) to exploit users to give away more, less openly available information.
+Delivery: The attacker will look to get into a position where they can exploit a vulnerability that they have identified, or they think could potentially exist. For example, sending an email containing a link to a malicious website or an attachment which contains malicious code. 
+Breach: The harm to the IT system will depend on the nature of the vulnerability and the exploitation method. It may allow attackers to make changes that affect the system’s operation, gain access to online accounts and achieve full control of a user’s computer, tablet or smartphone.
+Affect: Depending on their motivation, the attacker may seek to explore the system, expand their access and establish a persistent presence by taking over a user or administrator account. With access to just one system, they can try to install automated scanning tools to discover more about the networks and take control of more systems. Examples include retrieving information they would otherwise not be able to access, such as intellectual property or commercially sensitive information. 
+
+The threats that we face by cyber criminals has grown in 2021, as shown by the events on the morning of the attack on the HSE’s systems. It is paramount that organisations take every measure possible in ensuring they’re aware of any threats they face and that they have can ensure minimum damage is done in the event of a planned attack.
+PrivacyEngine have recently deployed a new ""Cyber Security At Home"" training course, available on our platform. The modules include: Ransomware, Phishing, Safeguarding emails, Working from Home, plus much more. To find out more, click on the button below: 
+
+ 
+",Colm Kelly

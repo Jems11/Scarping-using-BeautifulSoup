@@ -1,0 +1,34 @@
+,Title,Details,Author
+0,Share with Care (and avoid a confidentiality breach),"
+
+
+ 
+One of the topics we get a lot of queries about is the sharing of personal data and whether it is a breach of the GDPR to do so. There are some misconceptions out there that any sharing of personal data is a form of breach. Unauthorised disclosure of personal data can result in a confidentiality breach however the GDPR does not prevent the sharing of personal data with third parties if it is lawful.  What makes it lawful?  
+
+
+Having a lawful basis to process the data. You need to satisfy one or more of the conditions of Article 6 for personal data and Article 9 for special category or sensitive personal data in order to legitimise your processing of personal data. For example, the processing is necessary for the performance of a contract between you and the data subject or the processing is necessary to comply with a legal obligation. 
+Being transparent with your data subjects [Article 13.1(e)]. This means informing the data subjects which organisations you intend on sharing their personal data with, at the point of collection by including the information your privacy statement or fair processing notice. 
+Having robust due diligence processes in place to ensure that you only use third party processors who can demonstrate appropriate technical and organisational measures to comply with GDPR [Article 28.1]. 
+Having a data processing agreement in place with your third party processors to ensure that they are under a contractual obligation to treat the personal data in a safe and secure manner and use it only as instructed by you [Article 28.3].  Alternatively, having a data sharing agreement in place with joint controllers or other third parties to determine respective responsibilities, particularly in relation to data subject rights [Article 26]. 
+Avoid sharing excessive or irrelevant data. Review your processes regularly and ensure the sharing is necessary for your purposes. Could the outcome be achieved if the personal data was anonymised? Do you need to provide all the personal data you collect? You should provide the minimum amount of personal data to the third party for the purposes required. [Article 5.1(c) - Data Minimisation]. 
+Securely transmitting the data – ensure that when you transmit personal data it is encrypted, password protected or otherwise protected. 
+Having processes in place for data subjects to exercise their rights. When several organisations are sharing personal data it may be difficult for an individual to decide who they should make a request for information to. You should provide clear information about the way in which individuals can make requests.
+
+If any or all of the above are missing from your data sharing arrangement you may be sharing personal data in breach of the GDPR.
+Although the GDPR introduces the obligation to notify a breach, it is not a requirement to do so in all circumstances: 
+
+Notification to the competent supervisory authority is required unless a breach is unlikely to result in a risk to the rights and freedoms of individuals.
+Communication of a breach to the individual is only triggered where it is likely to result in a high risk to their rights and freedoms.
+
+ When assessing the risk that is likely to result from a breach, the controller should consider a combination of the severity of the potential impact on the rights and freedoms of individuals and the likelihood of these occurring. Things to consider when assessing the risk in the event of a breach: 
+
+The nature, sensitivity, and volume of personal data - the more sensitive the data, the higher the risk of harm will be to the people affected, but consideration should also be given to other personal data that may already be available about the data subject. For example: a list of customers accepting regular deliveries may not be particularly sensitive, but the same data about customers who have requested that their deliveries be stopped while on holiday would be useful information to criminals.
+Ease of identification of individuals - an important factor to consider is how easy it will be for a party who has access to compromised personal data to identify specific individuals or match the data with other information to identify individuals.
+Severity of consequences for individuals - depending on the nature of the personal data involved in a breach (e.g. special categories of data) the potential damage to individuals can be severe, in particular where the breach could result in identity theft or fraud, physical harm, psychological distress, humiliation or damage to reputation. If the breach concerns personal data about vulnerable individuals, they could be placed at greater risk of harm.
+
+ Useful Information & Links: 
+
+PrivacyEngine contains templates for data processing agreements, data sharing agreements and an Article 28 Checklist
+Guidelines on Personal data breach notification under Regulation 2016/679 https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612052
+
+",Kathy Williams

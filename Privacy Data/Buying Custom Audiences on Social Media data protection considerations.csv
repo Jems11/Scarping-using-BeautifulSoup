@@ -1,0 +1,45 @@
+,Title,Details,Author
+0,Buying Custom Audiences on Social Media: data protection considerations,"
+
+
+Buying custom audiences from social media service providers is fast becoming the most popular method of finding new 'leads'. This needs to be approached with caution and we have already heard from several clients raising concerns about what data protection considerations need to be taken into account.
+
+As one of the primary social media service providers, Facebook helpfully released a document recently which is designed to help address the most common of these data protection concerns.
+Here is an overview of the process and what your organisation, as a Data Controller, should consider before engaging this method.
+The Data Controllers involved
+There are two Data Controllers involved in this lead generation process:
+
+The Advertiser, seeking an expanded list of 'leads' via a Custom Audience, and
+The social media service provider (e.g. Facebook).
+
+The Data Subjects involved
+There are also two sets of Data Subject involved in this process:
+
+The Target Audience, and
+The Custom Audience.
+
+The Target Audience is the list of Data Subjects already being held by the Advertiser. The Advertiser wishes to create a Custom Audience, based on the profile and characteristics of their Target Audience.
+The Advertiser will typically not see the personal details or identity of the Custom Audience, until the members of the Custom Audience make themselves known by getting in contact as a result of the social media advertising campaign.
+Rather, the Advertiser will receive assurances from the social medial service provider that a Custom Audience of a certain size has been identified, based on the profile of the Target Audience, and, for a fee, can now be contacted via an advertising campaign. The Advertiser will then provide the advertising content, which the social media service provider will post on the newsfeed of the Custom Audience.
+Case Study: The Facebook Process
+The Advertiser uploads the details of the Target Audience into their browser where the browser ""hashes"" or encrypts the data locally using an application available from Facebook.
+The Advertiser's browser then connects over a secure, encrypted communications line, to the Advertiser's own Facebook advertising account, authenticates the data using the Target Audience's own Facebook credentials and then passes the list of hashed values to Facebook.
+Without disclosing the personal data of the Target Audience, these encrypted values provide Facebook with the key characteristics of the Target Audience, such as geographical location, demographic information, age, preferences, date of birth, etc.
+Facebook have pre-computed, encrypted (""hashed"") values for every Facebook user. ""Hashed"" values are produced by taking various items of data and creating a shortened, unique code. When the organisation uploads its Target Audience information to Facebook, Facebook creates a piece of code which cannot then be reversed back to identifiable personal data.
+Software in Facebook reads the Target Audience codes and compares them against the library of code that they have in relation to all of their users. The users who have matching codes are added to a Custom Audience that is stored within the Advertiser's own Facebook advertising account. Facebook then delete all the Target Audience codes which the advertiser had sent them for that campaign.
+The Custom Audience is stored in the Advertiser's account, where only authorised Facebook administrators can access it. At this stage, the Advertiser does not have access to the list of Facebook users who will receive the advertisement.
+Instead, the Advertiser can see the aggregated number of individuals in the Custom Audience. With the Advertiser's approval, their advertising account is configured to post the advertisement onto the home page of the individuals in the Custom Audience.
+The Advertiser will only acquire personal information on the members of the Custom Audience where they respond to the advertisement and get in touch with the advertiser directly. From this point on in the life cycle, this personal data becomes the responsibility of the Advertiser.
+For this reason, it is important that the content of the advertisement contains the appropriate information and 'opt in' options in order to ensure that any personal data acquired through the campaign is processed in a fair and compliant manner.
+Data Protection considerations in a nutshell:
+
+Since their personal data will not be disclosed during the lead generation process, it is not necessary to seek the consent of the Target Audience prior to using their information for this purpose.
+However, it is important that, under the provisions of the GDPR, the Advertiser explains, via their Privacy Statement, their intention to use customer data for profiling purposes from time to time.
+If the Advertiser is engaging a 3rd party to execute this service on their behalf, and this 3rd party will have access to the personal data of the Target Audience, then, the Advertiser needs to ensure that a Data Processor Agreement is in place prior to disclosing the data.
+The Advertiser is responsible for ensuring that the ""hashed"" data is transmitted to the social media service provider in a secure manner – for example, the Target Audience data in this case is transmitted to Facebook using TLS (Transport Layer Security).
+In this example, Facebook are neither receiving, storing or processing the personal data that is provided by the Advertiser. The social media provider will only have access to ""hashes"", which are irreversible to the original personal data, and, in any event, are deleted at the end of the advertising campaign.
+Since the advertising campaign does not involve specific or direct marketing, (i.e. does not target an individual person), under the current DP legislation as well as the GDPR, the Advertiser does not need to get prior permission from a member of the Custom Audience in order to serve an ad to them.
+Where the objective of the advertising campaign is to generate new leads and encourage members of the Custom Audience to get in contact, the Advertiser must ensure that any registration or 'opt in' forms contained in the advertisement are appropriate and compliant with the current legislation with regard to consent and fair processing (including the Data Protection Acts ('88 and '03), the Electronic Communications Regulation (2011) and, from May 2018 onwards, the General Data Protection Regulation (GDPR).
+
+Sytorus is an independent Data Protection consultancy based in Dublin and London that provides training, consultancy and support services to all sectors and industries. If you’d like to find out how our lifecycle approach can help you to identify and manage risks across your organisation and provide a simple way of managing and mitigating these risks on an ongoing basis, contact our Dublin team on +353 (0)1 683 3314 or email info@sytorus.com or contact the London team on 0207 936 9442 or email info@sytorus.co.uk.
+",Clare Deegan

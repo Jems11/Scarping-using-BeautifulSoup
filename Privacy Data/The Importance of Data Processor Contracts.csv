@@ -1,0 +1,22 @@
+,Title,Details,Author
+0,The Importance of Data Processor Contracts,"
+
+
+Data Protection & Liability
+
+In nearly every audit/assessment that I am asked to do, there are two specific things which I look to see are in place, Policies and Data Processor Contracts. The latter are a key component to provide evidence that proper data management practices are in situ, but the latter tells me, even more, how well controlled the data actually is.
+Third parties are a central theme to the day to day running of any business. Without exception every company utilises the services of another entity to complete some degree of processing of personal data on its behalf. As such, there is a huge dependence on these organisations, and with that dependence comes a large degree of vulnerability.
+Current Data Protection law in Europe holds a clear line, that the Data Controller is singularly responsible for ensuring that personal data is processed in accordance with that law. When third parties are added into the mix, then that responsibility remains with the Data Controller. And it is at this point that the hairy notion of liability kicks in.
+In the event of a Data Breach the Data Controller is liable, in particular if a Data Processor (third party) causes the breach. But there is an exception, and this is where the Data Processor Contract kicks in.
+Pointing Liability Away From You
+If an appropriate (and this is an important word) Data Processor Contract is in play, there is an argument for the Commissioner to treat the third party as a Controller, and prosecute them as such, fundamentally absolving the original Data Controller of liability. This is a huge point, as it effectively is a get out of jail card when a situation you had very little control over, suddenly brings a major Data Breach on to your table.
+But how, exactly, can you do this? Most people believe that a templated Data Processor Contract, or simple reference to Data Protection compliance in an SLA or a commercial contract is enough, but in reality it isn't.
+In truth the only answer which can stack up with rigor, is the creation of a bespoke Data Processor Contract which specifies in detail some key elements, namely:
+
+Confirmation that the Data Processor will process the data in compliance with relevant Data Protection legislation;
+Failure to comply will lead to termination of the commercial contract;
+A right to audit;
+A specific, detailed Schedule, outlining the processing itself.
+
+Point 4 is the most important here, as it clearly is focused on documenting precisely how the data is to be processed, and should be done in line with the 8 rules. Doing this allows you as the Data Controller to quickly identify, through an audit, where it was that the Data Processor effectively broke the agreement. The more specific the detail around this, the easier it is to have the Commissioner prosecute the third party as a Data Controller.
+",Mike Morrissey

@@ -1,0 +1,16 @@
+,Title,Details,Author
+0,German Data Protection Authorities Suspend BCRs and Question Model Contracts,"
+
+The Düsseldorfer Kries, consisting of the 16 state German data protection authorities released a Position paper on the recent Safe Harbor ruling. Some of their conclusions are surprising and could have a major impact on future data transfers to the U.S.
+
+
+Unsurprisingly, transfers based around Safe Harbor will be prohibited. This is clearly in line with the ECJ ruling, a few weeks back, and implies that any organisation still seeking to transfer data under this agreement will now be operating illegally.
+Things get more interesting when Binding Corporate Rules are considered. The ECJ ruling does not specifically call out issues around BCRs, yet the Düsseldorfer Kreis has specifically decided that they will issue no further approvals for BCRs, or any other ad-hoc export agreements around data transfers to the U.S.
+So, any organisation currently seeking to put in place BCRs, as a replacement to Safe Harbor, for German data will now need to explore other avenues.
+BCRs are designed for large multi-nationals and are, in effect, a set of rules which can be applied across all operations of the business, where personal data of European citizens is being processed. It allows for a stream-lined and effective singular defined, and documented, process, to be applied across jurisdictions. 
+BCRs take time to implement, often many months of work, so it is unlikely that anyone has actually gone down the road of implementing these as an alternative to Safe Harbor. However anyone who began this work some time back, may now find themselves in a difficult position, and will need to re-engage with a different strategy.
+The point about data export agreements is more confusing. In this they are referring to Model Contracts, but there is no obligation in current German legislation, to notify the state authority when such an agreement is in place. Therefore refusing to approve future data export agreements makes no sense.
+What is also unclear is the impact this will all have on existing BCRs and Model Contracts. There is a possibility that current agreements may be deemed invalid as well, but we will need to await developments and further clarifications.
+the bottom line, as we see it here in PrivacyEngine, is that BCRs are off the table for the German regulators, and that Model Contracts may not be valid. The state regulator in Schleswig Holstein stated as such last week. Therefore the transfer of German data outside of the EEA is more problematic than in any other European jurisdiction.
+Considering the Article 29 Working Party basically warned the legislators to sort out the Safe Harbor mess within three months, before they start acting against companies, there is a real pressing need to get this sorted quickly, before there is more significant, and financial, fallout.
+",Mike Morrissey

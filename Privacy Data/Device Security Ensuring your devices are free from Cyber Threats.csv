@@ -1,0 +1,78 @@
+,Title,Details,Author
+0,Device Security: Ensuring your devices are free from Cyber Threats,"
+
+
+The importance of Cyber Security has grown in 2020, with in particular the Covid-19 pandemic playing a key role. One of the major changes we've seen occur is the fact that more of us are working from home. This means that the devices that are used whilst working away from the office are prone to cyber attacks, with malware being used by attackers. According to Microsoft , 67% of people are using personal devices in the workplace. 
+
+What is Device Security? 
+Device security occurs as devices become smaller and more powerful, the number of tasks that can be achieved away from the office grows. However, with increased capabilities come new risks. Security controls that have evolved to protect the static desktop environment can now be easily bypassed via a smartphone, tablet or notebook laptop outside the confines of an office. 
+Mobile Computing Policy
+Your company’s mobile computing policy will set out the controls that must be in place when using mobile devices. It is intended to mitigate the following risks:
+
+Loss or theft of mobile devices, including the data on them
+Compromise of classified information through observation by the public or competitors
+Introduction of viruses and malware to the network
+Loss of reputation
+
+Measures you can take to guarantee mobile device security:
+
+Only mobile devices approved by the company should be used to hold or process classified information on behalf of the organisation.
+You should not use your own devices for business purposes, unless granted permission by senior management.
+Support will be provided by the Information Security Team or IT support who may at times need access to your device for problem resolution and maintenance purposes.
+If you need to work from home, refer to the Information Security Manager so that a ‘risk assessment’ can be carried out as required.
+
+
+Precautions to take when using a mobile: 
+
+Physical Protection: Use a protective case when possible. Don't leave your device unattended in public view. When in public ensure that you lock the device so that an unauthorised person cant access it. Don't add peripheral hardware to the device without the approval of IT Services.
+Access Control: Don't hold classified information on a personal device unless this has been authorised and appropriate controls, such as encryption, have been put in place. Do not keep access tokens, Personal Identification Numbers or other security items with the device. You should not install any unauthorised software or change the configuration or setup of the device without consulting the IT Department.
+Backups: Try and take some time in backing up any files held on a device, incase it get's disconnected to the corporate network for a period of time. Do not make your own unencrypted copies of classified information.
+Virus Protection: Virus protection may be installed on your device by the company. If so ensure that your device is connected to the corporate network on a regular basis, to allow its virus signatures to be updated. 
+
+The device should not be connected to non-corporate networks such as wireless or the Internet unless a VPN (Virtual Private Network) is used. Do not disable virus protection on your device.
+Bring Your Own Device Policy
+As the name suggests a company may have a Bring your own device (BYOD) policy, allowing employees to use their own devices in work. According to Forbes , 60% of employees are hesitant to bring their own devices to work or connect them to a company network, due to the security issues that exist. As with mobile computing, a BYOD policy helps prevent loss or theft of data on employees’ devices, the compromise of classified information in public view, the triggering of malware and viruses in the network, and reputational damage. 
+BYOD policies are a joint decision between the organisation and the employee, and must be obeyed whenever you use your personal equipment to perform tasks.
+Precautions to take when using your own device at work: 
+
+Physical protection: As with mobile computing, transport your device in a protective case, do not leave it unattended while in public, and lock it away during storage. In addition, for BYOD you should register your device for any available locate and wipe facility remotely run by your organisation.
+Access Control: You cannot hold classified information on a personal device unless this has been authorized and appropriate controls have been put in place. Ensure that the device screen locks after a short period of not being used, and requires an access code or password to unlock it. Passwords used should be strong and difficult to guess. Do not set up unsecured logons (i.e. those that do not require a password) for access to classified information stored on the device. If possible, encrypt all data on your phone.
+Virus Protection: Where applicable, virus protection for your device should be updated on a regular basis. Do not disable any pre-packaged virus protection. You should only purchase and install apps from a reputable source. If in doubt, clarify with IT.
+Network Connection: Be wary of automatically connecting to wireless networks you do not know, particularly in public places like airports. Do not connect to the corporate network without using a VPN connection.
+
+What is Social Engineering?
+Social Engineering is the art of manipulating people so they give up confidential information. Criminals will try to trick individuals into giving them password/ bank information etc. The tactics used rely on an individual's trust in giving details to a criminal such as a password. No matter how tight your network security or well-considered your security policy, the human element at your business remains vulnerable to hackers.
+Steps to make sure you or your organisation are not a victim of social engineering: 
+
+Be aware of the information you're releasing.
+Determine which of your assets are most valuable to criminals, and prioritise the protection of them.
+When asked for information, consider whether the person you're talking to actually requires the details they're asking for.
+Watch out for questions that don't fit the situation; are they out of character with the persona you are being presented
+Stick to your guns. If you believe the person does not need the information, do not disclose it, and inform your manager of the conversation.
+
+Social Media
+Social engineering can also be conducted through information available on social media. By creating fake profiles on websites such as Linkedin and Facebook, hackers can obtain information by disguising themselves as colleagues or potential clients.In order to avoid becoming a target you should: 
+
+Never post personal information such as your phone number or home address on Facebook or Linkedin.
+If you use Twitter or keep a blog, check your company’s policy on what information can be shared on private accounts.
+If you come across a suspicious incident, report it immediately.
+
+Keeping Your Home Network Safe 
+Protecting your home computer and network is just as important as securing devices you use at work, due to persistent threats from hackers and cybercrime. Here are steps to protect your home computer: 
+
+Install a firewall
+Install Antivirus and Anti-Spyware Software and keep it up to date
+Install application updates as soon as they become available
+Use Complex and Secure Passwords
+Routinely check the security settings of your browser
+
+If mobile, gaming and tv devices are also connected to your network, make sure they are also equipped with the latest operating system, web browsers and security software. The most important step is to secure your router. Otherwise you’re vulnerable to people accessing information on your computer, using your Internet connection for free, and using your network to commit cybercrimes.
+Here are ways to secure your wireless router:
+
+Change your router to a name that is unique to you and won’t be easily guessed by others.
+Change the pre-set password on your router. Make sure it is long and strong, using a mix of numbers, letters and symbols. When choosing your router’s level of security, opt for WPA2, if available, or WPA. They are more secure than the WEP option.
+Create a guest password as well.
+
+Got any questions regarding device security and how Sytorus can mitigate against such risks? Click on the button below to schedule a meeting with a member of the team. 
+
+",Colm Kelly

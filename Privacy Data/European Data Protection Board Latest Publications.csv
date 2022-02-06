@@ -1,0 +1,56 @@
+,Title,Details,Author
+0,European Data Protection Board: Latest Publications,"
+
+
+
+Last week’s plethora of privacy news was the DP professional’s equivalent of the commuter waiting for the #46a bus – nothing for ages, then several arrive at once! 
+The week started with the announcement that the ICO had ‘pulled its punch’ but had nonetheless levied a substantial penalty on the Marriott hotel group for its failure to protect its personal data – to the tune of £18.4m (marked down from a far more impactful £100m a year previously).
+The week ended with the same ICO announcing a £1.4m penalty against Ticketmaster for compromising the security of the payment details of 9.4m customers. More about that in this week’s news headlines.
+In between, the lovely people at the European Data Protection Board (EDPB), the more senior body responsible for interpretation and enforcement of the GDPR across the European Economic Area, published several documents in response to the recent decision by the European Court of Justice (CJEU) in relation to overseas data transfers.
+Like the 46a of recent memory, this is something we have been waiting on for a while. There had been recent grumblings at the lack of guidance coming from Brussels following the CJEU decision, particularly given the seismic impact it had on the Privacy Shield mechanism and with a ‘no-deal’ Brexit looming just around the corner (now 6 weeks away and seeming ever-more likely).
+In addition to de-commissioning Privacy Shield, that decision effectively meant that Data Controllers sending personal data to a third country (i.e. a country which does not have an EU ‘adequacy’ designation in relation to its protection of personal data equivalent to the GDPR) must ensure that appropriate contractual, organisational and technical safeguards are in place to protect the data. 
+Unfortunately, other than indicating that Standard Contractual Clauses would be integral to such arrangements, the CJEU did not provide clarity on what it considered to be appropriate safeguards. And so we waited for guidance. That guidance has now arrived.
+In brief, the most recent EDPB publications include:
+
+A decision by the EU Commission reinforcing the status and value of Standard Contractual Clauses (SCC’s) in the context of overseas data transfers – this is particularly helpful and timely since the recent CJEU decision meant that Privacy Shield is no longer available, Binding Corporate Rules (BCR’s) remain as rare as hens’ teeth and EU ‘adequacy’ decisions only currently apply to 12 countries and jurisdictions around the world. The SCCs have therefore become the most likely, practicable and accessible solution for most organisations planning to transfer personal data to a destination outside of the EEA;
+
+
+A long-awaited upgrade (last drafted in 2004) to the SCC templates, to bring the documents into the GDPR era and to expand the set of template to take account of 
+
+controller-to-controller, 
+controller to processor, 
+processor to processor and 
+processor to controller transfer scenarios; 
+
+
+
+
+A recommendation in relation to the supplementary measures (organisational, technical and contractual) which EU organisations should take into account when preparing to export personal data under their care to an ‘importer’ in a third country;
+
+
+An updated list of the European Essential Guarantees (EEG’s) which an EU-based data ‘exporter’ should look for when trying to assess whether a third country will offer a safe and benign environment for the data being transferred. These guarantees include:
+
+Evidence of clear, precise and accessible rules in relation to data processing
+Evidence that rules of proportionality and necessity are built into the nation’s surveillance and data processing legislation
+The existence of an independent oversight body to monitor such surveillance and
+The availability of effective remedies for data subjects if their rights are abused.
+
+
+
+Naturally, that is a lot to take in at one sitting. Over the coming week or so, Sytorus will be providing a more detailed overview of each of these documents, putting the recommendations and guidance into the context of the recent Schrems II decision and the ever-looming Brexit deadline. While the Schrems II decision back in July 2020 was seen primarily within the context of transfers of personal data to organisations in the US, the implications for transfers of data to the UK by EU-based firms have now come into focus.
+Preparing for the transfer of personal data
+Given that many of our clients will be wondering about the implications of Brexit, which takes effect on January 1st, we encourage organisations to start by following the six steps which the EDPB has identified as critical when preparing for such a transfer of personal data:
+
+Conduct a full and thorough review of your data transfers to have a clear understanding of data flows to third countries – both current arrangements and those planned in the future;
+Identify the lawful basis and transfer mechanisms you are currently relying-upon for those transfers – an adequacy decision, SCC’s, Binding Corporate Rules, etc;
+Evaluate the current transfer tool to determine whether it offers ‘essentially equivalent’ protection for the data as if the data were to remain within the EEA;
+Consider additional supplementary protections for the protection of the data;
+Give some thought to the necessary procedural steps which might be necessary when adopting these supplementary protections – for example, formal notification to the supervisory authority of the ‘destination’ jurisdiction; and
+Put governance and monitoring structures in place to review the effectiveness and compliance of your data protection measures on a regular basis.
+
+Not much to ask, really, given that it’s mid-November, in the middle of a global pandemic, with Christmas around the corner and uncertainty on so many fronts – from the White House to family visits, pub openings and the fabled ‘six-in-a-row’. In so many ways, the EDPB guidance, like the 46a, could not have come at a better time!
+Keep well, stay safe and let us know if we can be of any support to you in your data transfer deliberations.
+ 
+Would you like to hear more about the publications from the EDPB? You can schedule a call with a member of the Sytorus team by clicking the button below. 
+
+",Hugh Jones

@@ -1,0 +1,56 @@
+,Title,Details,Author
+0,Blackbaud data breach: All you need to know,"
+
+
+In May 2020 Blackbaud, a cloud software company, disclosed that they had been the victim of an attempted ransomware attack, in which client data of a proportion of their international client base was held ‘hostage’.
+
+This raised a number of concerns for us at Sytorus – not least because a number of our clients, both domestic and international, either use Blackbaud’s “Raiser’s Edge” platform directly, or engage with third party service providers who rely on the platform for their fund-raising and campaign management services.
+We know this because, in the past week or so, a full ten weeks after the incident, Blackbaud (BB) finally started letting its clients know about the attack. There were some other interesting aspects to their disclosure:
+
+The fact that they had decided to pay the ‘ransom’ (in Bitcoin) without consultation with their clients;
+The assurances they provided that any data compromised in the attack had been restore
+
+(“…we have no reason to believe that any data went beyond the cybercriminal, was or will be misused, or will be disseminated or otherwise made available publicly”)
+
+Their failure, to date, to inform clients of the full scope and volume of their personal data impacted by the attack (mostly donor and supporter data, given the nature of BB’s services);
+
+and, intriguingly,
+
+their assurances that, having received the ransom, the hackers were now unlikely to return and that their clients could go about their business as normal. Nothing to see here, etc.
+
+Based on the information disclosed to date, as well as some follow-up articles in the UK media, we have a few questions for Blackbaud (and for any service provider who might act in this unilateral manner) – they are listed in no particular order of priority or importance:
+
+What took BB so long to inform its clients about an attack that (we must assume) compromised the security, safety and integrity of their data?
+
+Most standard clauses require the Data Processor (for that is BB’s role from a GDPR perspective) to notify its client (the Data Controller) as soon as possible once it becomes aware of a security or breach incident pertaining to the client’s data.
+
+Given the ten week time lapse, why has BB not been able to provide its clients with more information regarding the scope and volume of their data which was impacted by the breach?
+
+Any normal response to an incident like this would involve a forensic analysis of the impacted data to understand what was lost, what was compromised and concern for what implications this might have for the clients in question. 
+
+On what basis, and following what advice, did BB think it was acceptable to pay the ‘ransom’ without consulting further with its clients?
+
+We are aware that there is a growing specialty among certain security and legal firms to give advice on the perpetrators of these attacks, their threat level and the percentages in favour or against ‘paying up’. What assessment of the situation did BB conduct in order to decide that paying out the ransom was an acceptable approach?
+
+If the attack was serious enough to compromise a large sub-set of client data, why are BB now asking their clients to trust the integrity and ‘honesty’ of the criminals behind the attack?
+BB assures its clients that many of them will not need to notify their regulators or supervisory authorities of this breach, “because of the types of data that may have been exposed”. Unfortunately, the GDPR requires organisations to notify their Supervisory Authority where the data has been exposed to risk – regardless of the category or volume of the data involved.
+
+Many of our clients who received this notice are now having to notify their donors, supporters, staff and service users whose personal data may well have been compromised – with all of the damage to trust and reputation which that notification will involve;
+
+Leaving aside the intriguing aspects of the BB breach, the incident serves as a timely reminder to all Controllers to review the contracts and terms which they have in place with their service providers and to check on the steps and responses they can rely on in the event of a similar incident.
+At the very least, the Controller should expect a timely report (within 72 hours max) from the service provider including information on:
+
+what were the circumstances of the breach?
+what data sets were impacted?
+whose data was impacted (i.e. what data subjects)?
+what advice or guidance did the service provider take when managing and mitigating the breach (professional, technical, legal, etc.)?
+What steps have been taken to prevent a recurrence?
+
+
+
+The drip feed of information from BB in relation to this incident is likely to continue in the coming days and weeks, which is scant consolation to the organisations whose fund-raising activities and long-standing donor trust has been impacted and damaged by the breach.
+Ultimately, the Controller is responsible both for the engagement and for the actions of its Data Processor, so we expect some substantial lessons will be learned from this event and the way it was handled.
+If you have any questions about this ransomware attack blog post or would like to learn more about how we at Sytorus may be able to help you and your organisation with managing a data breach, you can call us on +353 (0) 1 513 6301 or you can register for our upcoming Free Privacy Insights Webinar: Managing an Incident or a Data Breach – what is my real exposure? taking place on Thursday August 6th at 3PM Dublin (GMT) by clicking on the button below.
+
+ 
+",Hugh Jones

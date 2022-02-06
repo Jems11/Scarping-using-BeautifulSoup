@@ -1,0 +1,28 @@
+,Title,Details,Author
+0,Profiling & Data Protection,"
+
+In this article we look at “Profiling”, and how the proposed General Data Protection Regulations (GDPR) will impact on this.  We present a brief case study, and discuss how the current legislation and proposed regulations address the practice of profiling.
+
+
+The European Parliament Draft Report on the General Data Protection Regulation (17/12/2014) defines “Profiling” as:
+any form of automated processing of personal data intended to evaluate certain personal aspects relating to a natural person or to analyse or predict in particular that person’s performance at work, economic situation, location, health, personal preferences, reliability or behaviour.
+People are sharing more information online.  A recent study showed that there was a considerable change in attitudes since 2012, with significant increases in those willing to share data.  In this study 50% (up from 40% in 2012) of respondents said that they see their personal information as an asset they can be used to negotiate better prices and officer with companies. [Source]
+People are sharing more on social networks too.  On Twitter, users tweet 5700 times every minute.  On Facebook, 55 million status updates are made every day, and 30 billion pieces of content, photos etc., are shared each month. [Source]
+Samaritans Radar App
+Increasingly companies are using / mining publicly available data (tweets, posts etc.) to come up with new interesting “facts” about us.  
+An example of this is the well-intentioned but misguided Samaritan’s Radar mobile app.  This was a Twitter-based service that scanned tweets for phrases like “help me”, “hate myself” and mentions of being depressed or needing someone to talk to and then sent an email to that user’s friends.  This is a textbook example of profiling where publicly available data was used to make predictions about a person’s mental health.
+It didn’t end well for the app.   Many Twitter users expressed concerns about Radar, arguing that it infringed privacy, and that tweets were scanned and collected without consent.  The Samaritans had no option but to shut it down – after just 9 days.
+Current Legislation
+There is no mention of profiling in the existing legislation.  It is specifically addressed in the new regulations.
+In Ireland, we have the Data Protection Acts (1988 and 2003).  The Acts contain 8 Rules of data protection which broadly ensure that you are in compliance with the Data Protection legislation in Ireland.  Rule #1 of the Data Protection Act states that you must “obtain and process information fairly”.  It could be argued that the Radar app was in breach of this rule.  The data subject, in this case the person whose tweets were being monitored, could not reasonably expect that the Samaritans were using their tweets to make judgements about their mental health.  What’s worse is that sensitive personal data about their health was being send to a third party without the data subject’s consent.  Also, data subjects were not notified that their tweets were being monitored.
+As a data subject you have a right to “freedom from automated decision making”.  This means that important decisions about you, for example work performance, creditworthiness or reliability may not be made solely by automatic means, e.g., by a computer, unless you consent to this.  In general there has to be a human input in such decisions.  In the case of the Radar app, there was no such human intervention.  Decisions about a person’s mental health were being made based on the tweets they posted.  It turns out that these decisions were inaccurate.  For example, the Radar app didn’t flag phases like: “I want to hang myself”, and did flag tweets like: “I don’t want to hang myself”.  According to The Register, just 4% of the tweets flagged by the Radar App were validated as genuine.
+Proposed Legislation
+The new General Data Protection Regulations attempt to address the issue of Profiling.  Under the proposed regulation:
+
+A statutory basis or consent will be required before carrying out profiling.  Consent will be required regardless of where the personal data is sensitive personal data or not
+In certain circumstances, a privacy impact assessment may be required before carrying out profiling – especially where it involves a person’s economic situation, location, health, personal preferences, reliability or behaviour
+Consent to profiling will need to be “informed consent”.  Individuals will need to be given extensive privacy notices – including specific information relating to the profiling
+
+The proposed legislation could have a significant impact on you or your company if you are about to commence a project that requires an element of profiling.  You should pay close attention to the existing legislation and be mindful of the new regulations, as they could have a serious impact on your project.
+At PrivacyEngine we promote “Privacy by Design”.  This is an approach to projects that promotes privacy and data protection compliance from the start. If you are considering a Big Data project or one that has an element of profiling, we recommend that you complete a Privacy Impact Assessment first.  This is a tool that you can use to identify and reduce the privacy risks of your project.
+",Ross McLoughlin

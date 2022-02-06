@@ -1,0 +1,25 @@
+,Title,Details,Author
+0,Google fined €100m by France’s Data Protection Supervisory Authority,"
+
+
+In 2020, we have seen hundreds of fines handed out to organisations within the European Union, for Data Protection Breaches. One of the organisations that have appeared in the bad books a few times is the search engine giant, Google, and they are in the headlines once again!
+Google have become the next victim of a heavy fine from CNIL, the French Data Protection Supervisory Authority. A €100 million fine is by no means easy for any organisation to swallow and further illustrates the commitments of the supervisory authorities across the EU to clamp down on organisations who fail to respect the rules on Cookies.
+Earlier in March this year, CNIL carried out an assessment on Google Frances website (google.fr). The assessment, quite worryingly, indicated that cookies were placed on users’ terminals without any active indication from those users to have such cookies deployed.
+
+Not Meeting the standard of Consent
+Google France deployed a wide range of cookies with a particular agenda and focus on advertising cookies. Such cookies were deployed on users’ terminals without their knowledge. Non-essential cookies, such as Advertising cookies, must require specific consent by the user from the outset to have such cookies deployed. Explicit consent by way of continuing to surf one’s website is not acceptable and falls foul of the requirements of consent under Article 7 and recital 32 of the GDPR.
+Google France were also found to have lacked in their transparency obligations. As mandated by the Regulation, organisations that deploy cookies must inform those users of the type of cookies they are deploying. This is met by way of introducing a cookie banner as soon as a user arrives on your site. As you can imagine, Google France failed in this regard in that the banner that was erected on the website failed to provide the additional information on their cookies. Google was found to have failed to adequately inform its users of said cookies, the objectives of those cookies and the means by which they could withdraw their consent should they no longer want a cookie to be deployed on their terminal.
+How can you comply with cookie requirements?
+
+Review your Cookie Banner to ensure that you inform the user of your intention to deploy cookies but only where you, the user, consent to such cookies
+Offer the user the options to consent to specific cookies
+Ensure your Consent Management Platform is capable of tracking such consents
+Review your Cookie Policy to ensure that same is reflected in terms of adequately informing your users what cookies are deployed, a description of those cookies, indicate whether they are a first or a third-party cookie and when you seek to refresh that consent (DPC advises that cookie consent should be refreshed every six months)
+
+Be cautious, it has come to our attention that just this week alone the Data Protection Commission (DPC)  is actively clamping down on Irish websites. Get your cookies in order before you receive a notice from the DPC!
+Click on the button below to watch a recent webinar Sytorus hosted alongside members of the DPC, in relation to the cookie sweep that they conducted on Irish businesses at the end of 2019!
+
+PrivacyEngine is a unique tool offered by Sytorus to help manage your Privacy programme to ensure you comply with the requirements of the GDPR. If you have any concerns and would like to speak to one of our Consultants with regards to reviewing your cookies, then please get in touch.
+
+ 
+",Colm Kelly

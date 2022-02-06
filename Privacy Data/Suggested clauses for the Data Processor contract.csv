@@ -1,0 +1,24 @@
+,Title,Details,Author
+0,Suggested clauses for the Data Processor contract,"
+
+You may have seen the recent case, covered here in PrivacyEngine, where the German courts levied a hefty penalty on an organisation which, in the view of the courts, did not have appropriate contractual structures in place to control the activities of their third-party service providers.
+
+This is a regular concern for our clients. They are aware that Irish legislation requires that a formal contract be in place between the Data Controller (the controller of the personal data) and the Data Processor (the third-party service provider) before any personal data is processed. Unfortunately, the legislation is relatively silent on the actual clauses which such a contract should contain.We know a few things from recent cases before the Irish courts:
+• It is up to the Data Controller and the Data Processor to negotiate the commercial terms of any contract between them – the Data Protection legislation does not get involved in that aspect of the relationship between the two parties;
+• While the obligation to have a Data Processor contract in place rests primarily with the Data Controller, the DP legislation does not insist on the Data Controller bringing the contract template to the table – it is equally appropriate for the Data Processor to introduce the initial contract terms;
+•  While we expect a set of specific clauses to be prescribed under the terms of the new General DP Regulation (GDPR), the current DP legislation does not prescribe any particular set of clauses which must be included in the contract. The relevant clauses simply states that:
+“Where processing of personal data is carried out by a Data Processor on behalf of a Data Controller, the Data Controller shall—
+(a) ensure that the processing is carried out in pursuance of a contract in writing or in another equivalent form between the data controller and the data processor and that the contract provides that the data processor carries out the processing only on and subject to the instructions of the data controller  and that the data processor complies with obligations equivalent to those imposed on the data controller by section 2(1)(d) of this Act;
+(b) ensure that the data processor provides sufficient guarantees in respect of the technical security measures, and organisational measures, governing the processing; and
+(c) take reasonable steps to ensure compliance with those measures.
+• The Data Processor contract should make specific reference to the data management aspects of the proposed engagement – this can either be included alongside the commercial terms for the engagement, or it can be a separate contract focusing on the data processing activities; • Lastly, the Data Processor contract should not be confused with an SLA – a Services Level Agreement sets out the terms and expectations of the service being provided by the third-party service provider. The Data Processor contract should be a clear expression of the commitment between both parties to manage the personal data in a manner that is compliant with the relevant legislation. In the absence of specific clauses being included within the legislation, we recommend the inclusion of the following, or similar clauses.
+That the Data Processor agrees:a) To process the personal data only on behalf of the Data Controller and in compliance with its instructions;
+(b) That it complies with the technical and organisational security measures in accordance with the applicable data protection law;
+(c) To deal promptly and properly with all inquiries from the Data Controller relating to the processing of the personal data;
+(d) That it will agree to submit its data-processing facilities for audit of the processing activities covered by the contract;
+(e) That, in the event of sub-contracting of some element of the work, the processing activity is carried out at least the same level of protection for the personal data and the rights of Data Subjects as required in the contract;
+(g) That it will promptly inform the Data Controller about:• any event or incident which puts the personal data at risk; • any legally binding request for disclosure of the personal data by a law enforcement authority; • any accidental or unauthorised access. 
+Naturally, these clauses can be negotiated and refined until both parties to the engagement are satisfied that they are acceptable, adequate, and that they can meet these requirements.
+Once the contract is signed and in place, the processing of the personal data can commence.
+In the coming weeks, we will look at the contractual suggestions in place for some of the more complex data processing arrangements, especially when the service provider resides outside the European jurisdiction.
+",Hugh Jones

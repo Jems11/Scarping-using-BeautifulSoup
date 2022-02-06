@@ -1,0 +1,47 @@
+,Title,Details,Author
+0,Will every company have to do Privacy Impact Assessments?,"
+
+As most of us will now know, the EU General Data Protection Regulation (GDPR) is around the corner. This new regulation comes with some new obligations and increased penalties; one of the new obligations is the potentially mandatory process of completing Privacy Impact Assessments (PIA). So who needs to do these, under what conditions and what does a PIA look likeThe obligationArticle 33 paragraph 1 of the proposed new regulation states that “Where processing operations present specific risks to the rights and freedoms of data subjects by virtue of their nature, their scope or their purposes, the controller or the processor acting on the controller's behalf shall carry out an assessment of the impact of the envisaged processing operations on the protection of personal data.” The regulation goes on to state that ‘risky’ data is sensitive personal data. This means that if you intend on processing sensitive personal data then there is an obligations to complete a PIA. The Regulation also states that in some instances, the data controller or the data processor must obtain authorisation from the supervisory authority where the risk is significantly high. This means that prior approval may be required from the commissioner in the event of risky processes. So what does this look like in practice? How do you actually complete a PIA?The ProcessWe have developed a methodology for Privacy Impact Assessments (PIA), which has been used successfully throughout Europe with organisations of varying size and industry. This is a process specifically designed to identify and address all Data Protection risks within a new or existing project. It is an iterative process which maps the lifecycle of personal data to determine:
+
+
+The provenance of the data;
+What processing is done on the data;
+Where the data is sent and to whom;
+When is the data deleted or anonymised.
+
+This process typically involves several key stakeholders within an organisation and is overseen by an internal sponsor who is either the current Data Protection Officer or is intended to take up this role in the medium term. 
+A Privacy Impact Assessment engagement can vary depending on the organisation and the complexity of processing. We suggest the following steps.Step 1: Identify Stakeholders, Systems and EntitiesAnyone or anything that comes into contact with data should be considered in this step. This could be a job role, a person, a third party or a computer system.Step 2: Identify ProcessesA process is any event that is required to complete a business function. You should focus on processes that involve personal and sensitive personal data.Step 3: Workflow AnalysisFor processes identified in Step 2, we suggest you workflow each relevant process into appropriate swim lanes. These swim lanes should identify 
+
+What data is processed
+What systems have visibility of this data
+Where this data is sent
+
+Step 4: Data Protection Assessment
+For each process identified in Step 3, we suggest you categorise the processing according to current and upcoming Data Protection legislation. Step 5: Risk Analysis
+A Risk Register should be created in parallel with Step 4 to measure risk against likelihood and severity.
+We suggest each risk is categorised into
+
+Ref Number
+Risk
+Date Raised
+Likelihood
+Impact
+Score
+Action
+Status
+
+Step 6: ImplementationWe suggest an agreed implementation plan is formalised into the following categories
+
+Ref Number
+Problem
+Resolution
+Agreed Action
+Complete
+Old Score
+New Likelihood
+New Impact
+New Score
+
+Conclusion
+Resulting from the Privacy Impact Assessment is a finding report which not only identifies the high risk areas but provides specific recommendations as to how to remediate each risk. In addition, we suggest a score card measuring the risks against likelihood and severity. This score card can be used as a benchmark to demonstrate progress as and Data Protection capability improvement.For more information on how to run a PIA or to get access to a PIA template, a suggested score card, and details on how to categorise the risk severity and likelihood, log on to privacyengine.io for more details.
+",John Ghent

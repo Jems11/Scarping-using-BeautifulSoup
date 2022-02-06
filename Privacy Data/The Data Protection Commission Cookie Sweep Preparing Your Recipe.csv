@@ -1,0 +1,29 @@
+,Title,Details,Author
+0,The Data Protection Commission Cookie Sweep: Preparing Your Recipe,"
+
+
+In August 2019, the Data Protection Commission (DPC) re-embarked on a cookie sweep to assess the general lay of the land across the jurisdiction. This involved an examination of a series of websites across a broad range of sectors, such as Media, Retail, Insurance and a selection of public bodies. A key focal point here was a series of organisations who had already been reported to the DPC due to a lack of compliance in this space.
+
+The report, published in April 2020 revealed what many already knew to be the case; organisations and businesses offering goods and services in Ireland have a dreadful sweet-tooth and aren’t overly fond of letting data subjects block their access to the cookie jar.
+The DPC provided exceptionally clear guidance on this topic, and in conjunction with a lengthy grace period of 6 months from the date of the published report and guidance for data controllers to bring their websites and mobile apps into compliance, there are no excuses after DPC-mandated deadline of October 5th 2020 when strict enforcement is set to begin.
+The Data Protection Commission Cookie Sweep: Everything You Need To Know
+Law and Scope – Preparing your Recipe.
+First, a quick refresher. The law of the land is Regulation 5 of the European Communities (Electronic Communications Networks and Services)(Privacy and Electronic Communications) Regulations 2011, which, in turn, is the Irish transposition of the European ePrivacy Directive 2002/58/EC, as amended by 2009/136/EC. Regulation 5(3) outlines that a person shall not use an electronic communications network to store information, or to gain access to, information already stored within a subscriber’s terminal equipment unless:
+
+The data subject has given their consent to that use after having been provided with clear and comprehensive information in accordance with the Data Protection Acts and;
+Said information is displayed in such a way as to be near unavoidable for the data subject upon initially visiting the website, and will remain easily accessible on future visits should they so wish. 
+
+ The above applies wherever such tracking ­­technology can be successfully deployed, be this via a website or an app, and on any viable medium such as laptops, mobiles, smart-watches or any IoT enabled utility. In conjunction, and due to the use of the word “consent”, Art.4(11) of Regulation (EU) 2016/679 (GDPR) also applies which emphasises:
+“ ‘Consent’ of the data subject means any freely given, specific, informed and unambiguous indication of the data subject’s wishes by which he or she, by a statement or by a clear affirmative action, signifies agreement to the processing of personal data relating to him or her. ”
+It is also important to distinguish between the different forms of tracking technologies covered by the legislation. This boils down to six main forms: Cookies (browser or http), Local Storage Objects (LSOs) aka ‘Flash Cookies’, Software Development Kits (SDKs), Pixel Trackers, social sharing tools (‘Like’ buttons) and device fingerprinting technologies. If any of the above are deployed and involve access to information on the user’s device or terminal equipment, the law applies.
+Furthermore, cookies can be split into two respective groups which cover a myriad of functions: session cookies & persistent (tracking) cookies:
+
+Session cookies are temporary in nature and are erased when the user closes out their browser at the end of a session. When the user returns to the website/app, they will not be recognised and will be treated as a new visitor. Think of cookies which enable shopping cart functionality and are only active for that specific visit. 
+Persistent or ‘tracking’ cookies on the other hand, remain on the user’s hard drive until they are either erased by the user or they expire. Such cookies can be quite innocent in nature, such as cookies that store a visitor’s consent information or menu preferences for example. On the other hand, persistent cookies may also enable organisations or third-parties to either deliberately or inadvertently build or enhance a profile on that specific visitor. In turn, this information can be used to facilitate the likes of statistical analysis or used to drive targeted marketing campaigns. The expiration date is set by the deploying website that the user visits and as such, it falls on the operator of that website to exercise caution.
+
+
+If you would like to learn more about The Data Protection Commission (DPC) Cookie Sweep and Guidance - considerations around Irish DPC guidance on the use of cookies and other tracking technologies “Guidance”, you can download your copy of our Free DPC Cookie Sweep and Guidance eBook by clicking on the button below.
+
+ 
+ 
+",John Byrne

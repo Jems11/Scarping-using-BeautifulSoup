@@ -1,0 +1,36 @@
+,Title,Details,Author
+0,"“Cometh the virus, cometh the App…” - Contact Tracing and the GDPR","
+
+
+How often these days do we hear someone say, “There’s an app for that!”. Even in these extra-ordinary times, the app developers are hard at work designing automated, phone-based solutions to assist in the fight against the spread and disruption caused by the Covid-19 virus.
+
+The European Data Protection Board (EDPB), (successor to the Article 29 Working Party) has recently issued guidance for app developers to consider when designing these applications, in order to ensure that the desired objectives are met while at the same time protecting the privacy rights and confidentiality of the general public.
+Firstly, it should be said that no application will provide a ‘silver bullet’ – a solution that will, on its own, solve the Covid-19 problem or halt its spread. Any application will need to be woven into the existing fabric of the national health service measures – wide-spread testing of those with symptoms, manual contact tracing by interviewing those who have been diagnosed to trace their recent movements, isolation of those who have been diagnosed and appropriate medical care and treatment.
+Secondly, the EDPB is adamant that, regardless of the seriousness of the challenge which Covid-19 poses to society and the world’s economy, it should not become an excuse to ‘park’ individual privacy rights and freedoms. In this context, the Board has issued guidance which shows that any app being designed can meet its objectives while at the same time complying with the key principles of the GDPR.
+The main objective of an automated contact tracing app will be to notify individuals of the fact that, in a defined time-frame, they may have been in contact with someone who is later diagnosed as ‘Covid-19 positive’. For such an app to work, therefore, certain criteria must be met:
+
+Firstly, the success of the app fundamentally depends on large-scale up-take by a substantial proportion of the population of any community or jurisdiction – occasional or ‘spotty’ adoption of the app will never achieve the desired objectives;
+Secondly, given the 10- to 14-day incubation phase of the virus, the app will need to be deployed and active long before an individual is diagnosed as having the virus;
+Thirdly, any diagnosis of infection must first be verified by an appropriately-qualified medical practitioner, to avoid causing unnecessary distress or panic among users of the app;
+Fourthly, the app must be designed and configured to measure ‘proximity’ of a contact based on accepted guidance from medical and epidemiological specialists – i.e. Australia is proposing a configuration which measures a contact as being within 1.5m of an infected person for a period of 15 minutes or more;
+Further, in keeping with the principles of lawful purpose (Pr. 2), minimisation (Pr. 3) and retention (Pr. 5), the app should only be used for this purpose, and should be disabled and removed as soon as we arrive at a point in the future when the virus no longer poses such a massive threat to our social and economic existence;
+The app should be able to inform the user of the risk of infection, to advise them on the appropriate ‘next steps’ to take, and to provide them with an option to seek further support from a health professional or specialist;
+Given that one objective of the app will be to allow society to relax some of the current movement restrictions imposed to halt the spread of the virus, the application should be inter-operable, meaning that it will be compatible with the tracing apps deployed in other EU jurisdictions, to that it will continue to trace and interact with the devices of other users across the European region once freedom of movement is restored;
+And lastly, use of the app must be voluntary, with no coercion or pressure being put on users to down-load or install it, and no disadvantage or detriment to those who decline or refuse to do so. 
+
+Helpfully, the lovely people at the EDPB has also issued guidance on what the app must NOT do:
+
+The app must not identify the individual users, neither the person diagnosed nor the person who is informed of that diagnosis – all notifications must be anonymised;
+The app must not track or ‘follow’ the individual user – the Board makes a clear distinction between reporting on the proximity of a recent contact and reporting on the geo-spatial location of the user at the time of that contact;
+The app software must not be a ‘black box’, but must be transparent and open to scrutiny and audit by technology and privacy specialists, to ensure that appropriate safeguards and controls are in place before deployment;
+The app must not be used for other, secondary purposes, such as law enforcement, criminal investigations or scientific research, without separate, clear consent from the individual user;
+The data secured by the app, whether stored on the user’s own device or transmitted in real time to a centralised server, must be anonymised or destroyed as soon as its purpose has been met, and should not be retained for any longer than is necessary to achieve this purpose. 
+
+We are already aware of several providers who are designing solutions to meet this obvious need, and it is hoped that any such proposal will meet the EDPB guidelines, both to achieve the well-intentioned objectives as well as to protect the rights and freedoms of EU citizens. 
+Critical to this objective is the requirement to conduct a Data Protection Impact Assessment (DPIA), which is mandatory under the GDPR for any initiative which poses a risk to the security and integrity of personal information. Even where the data produced by the apps are anonymised and avoid identifying or tracking the location of the individual user, the functionality is fundamentally based on their personal data and the ability to trace their recent movements and the proximity of others to them.
+We hear so much talk these days about the ‘new normal’ and the likely changes that the Covid-19 crisis is having on the way we live our lives. Added to changes in how we work, whether we commute and how we communicate, our ‘new normal’ will inevitably include some form of monitoring of our movements vis-à-vis other members of our community – where we have been and with whom we have been in contact (based on that defined set of measurements). We are likely to be carrying that data around with us, on our phone or device, so that it is constantly ‘speaking’ with other, similar devices and storing up the information for days or weeks until it is needed.
+In the words of the old adage, it will be better to have such data and not need it, than to need it and not have it. The app data, necessarily combined with the great work already being done by medical personnel and ‘traditional’ contact tracing teams, will provide a crucial weapon in containing and ultimately defeating the controls and limitations which the virus has imposed on our lives. We can only hope that the use of the data will be compliant, considerate and confined to this well-intentioned objective.
+If you would like further information on the Sytorus Data Protection Impact Assessment (DPIA) 6 Step Process or to Book your Free GDPR Healthcheck Meeting click on the link below.
+
+ 
+",Hugh Jones

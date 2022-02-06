@@ -1,0 +1,52 @@
+,Title,Details,Author
+0,The Implications of a 'No Deal' Brexit by the end of October,"
+
+The implications of a ‘No Deal’ Brexit by end-OctoberAs the witching date of Hallowe’en (aka Brexit) looms ever closer, there are important implications for organisations to consider in the event of a ‘no-deal’ outcome, whether those firms are located in Ireland, the UK, elsewhere within the EU, or elsewhere in the world. At time of writing, that it is less than 60 days away, and leaves very little time for indecision or inaction.In short, a ‘no-deal’ Brexit will have the following data management implications:There will be no formal trade agreement between the UK and the remaining 27 member states of the European Union from 23:00 (GMT) on the evening of October 31st, 2019, and for the foreseeable future. Overnight, the UK will be considered a ‘third country’, equivalent, in EU data processing terms, to India, Australia or China;From that date onwards, the UK will not be considered an ‘adequate’ state from the perspective of its data management regime, until such time as the UK formally applies for such status, and until it is then granted by the remaining states of the EU. Such a process can take up to 3-4 years, if the recent experiences of Israel and Japan are anything to go by;UK firms to continue to abide by GDPRIt should be noted that the UK Information Commissioner has recently reiterated her position that, from end-October onwards, UK-based organisations will continue to comply with the GDPR, overseen by the Information Commissioner’s Office (ICO). This is because, while no longer an EU Member State, UK firms which continue to offer products or services to individuals within the EU must ensure that such processing complies with the GDPR principles.Additionally, the UK Commissioner has confirmed that the GDPR, combined with the UK Data Protection Act (2018) will form the basis for any processing of personal data by organisations within the UK until further notice.However, non-EU firms which were relying on a UK-based entity to be their Nominated Representative within the EU, as mandated by the GDPR, will no longer be able to do so. They will need to look elsewhere within the remaining 27 Member States for an established entity to represent their interests from November 1st onwards.
+Appropriate Transfer MechanismsAny transfer of personal data after October 31st, 2019, by an EU-based organisation to an organisation based in the UK which is acting either as a Data Controller or as a Data Processor, must be protected by one of the following, formal legal mechanisms:
+
+
+
+The EU-based Controller will need to enter into a formal contractual arrangement with the UK entity, using one of the pre-drafted Special Contractual Clauses (SCC’s) available on the web-site of the European Commission.
+
+
+An EU-based entity sharing data with a UK organisation which is a subsidiary within the same group of companies may be able to avail of the Binding Corporate Rules (BCR) mechanism, as long as this status has already been evaluated and granted by the European Commission prior to October 31st.
+
+
+The EU-based entity must manage the transfer of personal data within the terms of a formal Code of Practice or certification mechanism which might be in place among organisations which operate within a particular industry or sector – here again, the Code of Practice or certification standard must already be defined and in place among the members of that sector or industry.
+
+
+As ever, certain exemptions and alternative solutions for data transfers between Member States and ‘third countries’ will remain in place, and these can be viewed on the web-site of the UK Information Commissioner’s Office (ICO).
+
+
+Organisations should refer to this set of options when considering the lawfulness of their intended data transfers.
+Unfortunately, if the October 31st deadline remains, then these transfer mechanisms must be put in place within the coming weeks. Any transfers of personal data by an EU firm to a UK-based entity without these mechanisms in place are at risk of being found non-compliant and in breach of the GDPR.
+The Challenge of Increased Public Awareness
+Given the increased publicity and attention which the whole Brexit scenario has received, it is highly likely that customers, donors and members of the public will be raising questions in the coming weeks about the processing of their personal data, particularly where they are aware that their data is being shared with a subsidiary or service provider within the UK. Irish and other EU-based organisations need to be prepared to explain the provisions they have put in place, and to confirm that their continued engagement of UK-based partner organisations is compliant and appropriately secure.
+EU and UK Nominated Representation
+Regardless of whether October 31st passes with a Brexit ‘Deal’ or ‘No Deal’ in place, the departure of the UK from the EU will have other implications for both UK- and EU-based organisations.
+Article 27 of the GDPR requires that organisations established outside of the EU, but wishing to provide products and services within the EU which involve the processing of personal data, must have a “Nominated Representative” within at least one EU Member State. The GDPR requires that this entity will “represent the (non-EU) Controller or Processor with regard to their respective obligations under this Regulation.”
+As mentioned above, organisations which have sought to address this obligation by nominating a UK-based entity must look elsewhere by October 31st.
+By extension, organisations from anywhere in the world, including the EU, will also need to have a engaged a legal entity within the UK (the “UK Representative”) in order to continue processing personal data of UK citizens after October 31st.
+(1) Non-EU firms
+Many such international organisations who are aware of this obligation have, up to now, nominated a representative organisation established within the UK. Post-Brexit, this will no longer comply with the obligation, since the EU Nominated Representative must be established within a Member State of the Union.
+(2) UK Firms
+As a further consequence, the obligation to have a Nominated Representative will apply, from October 31st, to all UK firms which continue to offer products and services within the remaining 27 EU Member States. The unimpeded movement of personal data which was one of the benefits of being an EU Member will no longer be available to UK firms from that date.
+Therefore, since they will now belong to a jurisdiction which has the same Data Protection status as India or China, UK firms who meet the criteria should really start looking for a legal entity within one of the remaining EU jurisdictions which will represent their Article 27 obligations by the end of October.
+(3) EU Firms
+As a final consequence, organisations established within the EU which offer products and services within the UK jurisdiction will, from end-October, need to have identified and engaged a legal entity established within the UK to represent their interests for such data processing activities. This is a mirror of the EU Nominated Representative, but ensures that UK citizens and the UK Supervisory Authority will have an entity established within their jurisdiction which will represent the interests (and liabilities) of any non-UK firm which is processing their personal data.
+(4) GDPR “Stragglers”
+As we have seen from recent half-year and year-end reports from several EU Supervisory Authorities, many organisations are still struggling to implement GDPR-compliant solutions which meet the obligations of the Regulation – the failure to appoint a Nominated Representative, where required to do so, is just one manifestation of that decision. Others have failed to nominated a Data Protection Officer even though they meet the GDPR criteria to appoint one. Still others have brought product and process changes to market without the mandated Data Protection Impact Assessment (DPIA), or have experienced a substantial data breach without notifying their respective Supervisory Authority.
+Outsourcing the role of the DPO may be the right approach for your organisation, schedule a one to one call now to find out more.
+
+
+
+
+Given the increased public and commercial awareness as a result of the Brexit ‘circus’, such organisations will have very little excuse for non-compliance by the end of October.
+Binding Corporate Rules
+Where a multi-national firm is in the process of applying for a Binding Corporate Rules (BCR) status as a mechanism to support inter-company transfers of data, the GDPR requires that such an application is ‘sponsored’ by the Supervisory Authority of an EU Member State.
+Similarly, any organisation relying on ICO-approved ‘tailored’ or ‘ad hoc’ contractual clauses for transferring personal data, or using ICO-endorsed codes of conduct with regard to any aspect of data processing, will also need to source an alternative endorsement by October 31st, since the ICO’s authority to issue such validation will cease on that date.
+In the event of a ‘no deal’ Brexit, any firm being sponsored towards their BCR by a UK-based organisation will need to nominate another sponsor from one of the remaining 27 Member States, as the UK will no longer be considered an adequate jurisdiction for such representative purposes.
+Brexit Options still available!
+As we have seen in recent days, some uncertainty still remains in this context – not only with the form, terms and duration of the eventual Withdrawal Agreement (if there is one!), the final terms of the Back-Stop arrangement, the post-Brexit status of the UK and its territories, but also with the deadline date itself. There is even the possibility that current wrangling between the UK and the EU Commission will lead to yet another delay.
+Regardless of what transpires, Sytorus, through our presence in Ireland, the UK, Germany and Scandinavia, is available to provide every support we can to our clients as we all prepare for momentous changes in the coming weeks.
+",Hugh Jones

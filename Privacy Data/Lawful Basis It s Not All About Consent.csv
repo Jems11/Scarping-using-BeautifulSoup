@@ -1,0 +1,319 @@
+,Title,Details,Author
+0,Lawful Basis – It’s Not All About Consent,"
+
+
+The first principle of the General Data Protection Regulation (GDPR) requires that all personal data is processed lawfully, fairly and in a transparent manner. Processing is only lawful if you have a lawful basis under Article 6. If no lawful basis applies to processing, the processing will be unlawful and in breach of the first principle. Individuals have the right to request the erasure of personal data which has been processed unlawfully.
+
+You must determine your lawful basis before you begin processing and you should document it. The individual’s right to be informed under Article 13 and 14 requires organisations to provide people with information about your lawful basis for processing.  This means these details need to be included in your privacy/fair processing notice.
+There are six available lawful bases for processing ‘ordinary’ personal data. No single basis is better or more important than the others, the most appropriate basis to use will depend on the purpose of processing. Consent is one lawful basis for processing, but it is not always the most appropriate basis. One of the disadvantages of consent is that it can be withdrawn, and another is that it has to pass the GDPR validity test.
+To see how PrivacyEngine™ Privacy Management Platform can help you with all your GDPR requirements, you can schedule a one-to-one free demo now using the link below
+
+
+
+ 
+
+When asking for consent, a controller has the duty to assess whether it will meet all the requirements to obtain valid consent. Valid consent is a freely given, specific, informed and unambiguous indication of the data subject's wishes by a clear affirmative action. When considering consent you should consider the following:
+Conditional consent: If you make consent a precondition of a service, it is unlikely to be an appropriate lawful basis. If the data subject has no real choice, feels compelled to consent or will endure negative consequences if they do not consent, then consent will not be valid.
+Imbalance of power: Public authorities, employers and other organisations in a position of power over individuals should avoid relying on consent unless they are confident that they can demonstrate it is freely given. It is unlikely that an employee would be able to respond freely to a request for consent from their employer to, for example, activate monitoring systems such as camera observation in a workplace, or to fill out assessment forms, without feeling any pressure to consent.
+Bundled consents: Recital 43 clarifies that consent is presumed not to be freely given if the process/procedure for obtaining consent does not allow data subjects to give separate consent for personal data processing operations. For example, a retailer asks its customers for combined consent to use their data to send them marketing by email and also to share their details with other companies within their group. This consent is not granular as there are no separate consents for the two separate purposes, therefore the consent will not be valid.
+What are the lawful bases for processing Personal Data?
+The lawful bases for processing personal data are set out in Article 6 of the GDPR. At least one of these must apply whenever you process personal data:
+
+
+
+
+(a) Consent: the individual has given clear consent for you to process their personal data for a specific purpose.
+
+
+
+
+
+
+Advantages
+
+
+
+
+Gives the Data Subject choices and control over the processing of their data
+
+
+
+
+
+
+Disadvantages
+
+
+
+
+Consent, in the form of a positive opt in, will need to be documented and retained so that you can demonstrate it was obtained.
+
+
+Consent must be ‘freely given, specific, informed and unambiguous’
+
+
+Specific:
+Consent cannot be blanket consent, different consents for different purposes must be obtained.
+
+
+Unambiguous:
+There must always be a clear distinction between the information needed for the informed consent and information about other matters.
+
+
+Freely Given:
+Consent should be voluntary and involve a real choice. Invalid consent could lead to regulatory fines.
+
+
+Data Subjects have stronger rights to have their data deleted where consent is the only legal basis for processing their personal data. Consent can be withdrawn at any time and the GDPR requires that the data subject is informed of this and that it is easy to withdraw consent.
+
+
+European data protection authorities have made it clear “that if a controller chooses to rely on consent for any part of the processing, they must be prepared to respect that choice and stop that part of the processing if an individual withdraws consent.” Strictly interpreted, this means the controller is not allowed to switch from the legal basis consent to legitimate interest once the data subject withdraws his consent. This applies even if a valid legitimate interest existed initially. Therefore, consent should always be chosen as a last option for processing personal data.
+
+
+
+
+
+
+Example of when consent may be an appropriate lawful basis:
+A school asks students for consent to use their photographs in a printed student magazine. Consent in these situations would be a genuine choice as long as students will not be denied education or services and could refuse the use of these photographs without any detriment.
+
+
+
+
+
+
+
+
+
+(b) Contract: the processing is necessary for a contract you have with the individual, or because they have asked you to take specific steps before entering into a contract.
+
+
+
+
+
+
+Advantages
+
+
+
+
+As long as processing the personal data is necessary for the purposes of the contract, a contract with the data subject gives a legal basis for processing personal data without the requirement for recording separate consent. This is appropriate for processing employee data as an employment contract is required.
+
+
+A contract does not necessarily have to be in writing
+
+
+
+
+
+
+Disadvantages
+
+
+
+
+If the contract is with a minor, consider whether they have the necessary competence to enter into a contract. If you there are doubts about their competence, consider an alternative basis such as legitimate interests.
+Note that ‘child’ in the Irish Data Protection Act means under 18.
+
+
+If the processing is not necessary for the contract, another lawful basis such as legitimate interests or consent would need to be considered.
+
+
+
+
+
+
+Example of when contract may be an appropriate lawful basis:
+In the employment context when a person applies for a vacant position in your organisation, they can be deemed to have requested you to take steps before entering into a contract. When they become an employee, you will have a contractual basis to process their personal data in the course of their employment.
+
+
+
+
+
+
+
+
+
+(c) Legal obligation: the processing is necessary for you to comply with the law (not including contractual obligations). (For example, you have a legal obligation to share employee data with the Revenue for tax purposes).
+
+
+
+
+
+
+Advantages
+
+
+
+
+Processing personal data to comply with a legal or statutory obligation set out in Irish or EU law is a strong lawful basis under GDPR
+
+
+
+
+
+
+Disadvantages
+
+
+
+
+The legal obligation must be on you, the data controller and you must be able to identify the specific legislation you are required to comply with. This does not apply to contractual obligations.
+
+
+
+
+
+
+Example of when legal obligation may be an appropriate lawful basis:
+A financial institution relies on the legal obligation imposed by the Criminal Justice (Money Laundering and Terrorist Financing) Act 2010 to process personal data in order submit a Suspicious Activity Report to the regulatory authorities when it knows or suspects that a person is engaged in, or attempting, money laundering.
+
+
+
+
+
+ 
+
+
+
+
+(d) Vital interests: the processing is necessary to protect someone’s life. (When you need to process personal data for medical purposes, but the individual is incapable of giving consent to the processing).
+
+
+
+
+
+
+Advantages
+
+
+
+
+Processing personal data without consent is permitted in instances where it is in the vital interest of the data subject such as where there has been an accident or emergency and the data subject cannot give consent but requires treatment or transfer to a hospital to preserve life.
+
+
+
+
+
+Disadvantages
+
+
+
+You cannot rely on vital interests for health data or other special category data if the individual is capable of giving consent, even if they refuse their consent.
+
+
+
+
+
+
+Example of when vital interests may be an appropriate lawful basis:
+An individual is admitted to the A & E department of a hospital with life-threatening injuries following a serious road accident. The disclosure to the hospital of the individual’s medical history is necessary in order to protect his/her vital interests.
+
+
+
+
+
+
+
+
+
+(e) Public task: the processing is necessary for you to perform a task in the public interest or for your official functions, and the task or function has a clear basis in law. (For example, a public body’s tasks, functions, duties or powers).
+
+
+
+
+
+
+Advantages
+
+
+
+
+You can rely on this lawful basis if you need to process personal data: 
+‘in the exercise of official authority’. This covers public functions and powers that are set out in law; 
+or to perform a specific task in the public interest that is set out in law.
+
+
+Any organisation who is exercising official authority or carrying out a specific task in the public interest. The focus is on the nature of the function, not the nature of the organisation.
+
+
+
+
+
+
+Disadvantages
+
+
+
+
+This legal basis can only be used when an organisation is exercising official authority or carrying out a specific task in the public interest.
+
+
+For accountability purposes, you should be able to specify the relevant task, function or power, and identify its basis in common law or statute. You should also ensure that you can demonstrate there is no other reasonable and less intrusive means to achieve your purpose.
+
+
+
+
+
+
+
+
+
+
+
+(f) Legitimate interests: the processing is necessary for your legitimate interests or the legitimate interests of a third party unless there is a good reason to protect the individual’s personal data which overrides those legitimate interests. (This cannot apply if you are a public authority processing data to perform your official tasks.
+
+
+
+
+
+
+Advantages
+
+
+
+
+Legitimate interest is the most flexible lawful basis for processing. It is appropriate where the personal data is being processed in ways which data subjects would reasonably expect and there is a compelling reason for processing. Legitimate interests can include commercial interests, individual interests or broader societal benefits.            
+
+
+Avoids having to collect and retain consent and bombarding people with unnecessary consent requests, can help avoid ‘consent fatigue’.
+
+
+If a controller wishes to process the personal data for a new purpose, they may be able to continue processing under legitimate interests as long as the new purpose is compatible with the original purpose.    
+
+
+A controller may be able to lawfully disclose data on the basis of legitimate interests. These might be the controller’s own interests, the interests of the third party receiving the data, or a combination of the two.       
+
+
+Data Subjects can object to processing on the grounds of legitimate interests, although that is not an absolute right and the controller can continue to process where they can demonstrate a compelling reason, or the processing is in relation to a legal claim.
+
+
+
+
+
+
+Disadvantages
+
+
+
+
+Although legitimate interest is a flexible concept, it does not apply to everything and should not be used as a default basis for processing.
+
+
+By choosing legitimate interests there is an extra responsibility for considering and protecting people’s rights and interests. This includes carrying out a legitimate interest balance test or assessment to ensure that the data subject’s rights and interests are not outweighed by the data controller’s rights. There is scope for disagreement over the balance test and you need to be able to clearly justify your decision.
+Article 6(1)(f) specifically highlights children’s personal data as requiring particular protection.
+
+
+
+
+
+
+Example of when legitimate interests may be an appropriate lawful basis:
+An insurance company wants to process personal data to spot fraudulent claims on the basis of legitimate interests. It is in the company’s legitimate business interests to ensure that its customers do not defraud it out of money. However at the same time the company’s other customers and the public in general also have a legitimate interest in ensuring that fraud is prevented and detected.
+
+
+
+
+
+If your organisation is processing special category data, you will need to identify both a lawful basis for processing from Article 6 and a special category condition for processing in compliance with Article 9. We will look at the Article 9 bases in a future article.Further Reading:European Data Protection Board Guidelines on Consent under Regulation 2016/679
+",Kathy Williams

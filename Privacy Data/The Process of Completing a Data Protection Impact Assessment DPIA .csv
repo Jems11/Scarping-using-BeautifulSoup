@@ -1,0 +1,57 @@
+,Title,Details,Author
+0,The Process of Completing a Data Protection Impact Assessment (DPIA),"
+
+
+What is a Data Protection Impact Assessment (DPIA) and why do I need one?
+A DPIA assesses the data protection risks associated with a new project involving the processing of personal data. A DPIA has a dual purpose; to negate risk and to demonstrate General Data Protection Regulations (GDPR) compliance. A DPIA is mandatory under Article 35 of the GDPR where a new project concerns processing that is likely to result in a high risk to the rights and freedoms of natural persons.
+Article 29 Working Party Guidance suggests that the following is likely to constitute high risk; profiling or predicting, automated decision making, systematic monitoring, processing sensitive data, large scale processing, combining datasets, data concerning vulnerable persons, use of innovation or new technology, data transfers outside the EU, and where the processing prevents an individual from exercising a right or using a service or contract. 
+
+What are the steps involved in a DPIA?
+Table of Contents: 
+
+Identify the need for a DPIA.
+Define the nature and characteristics of the processing.
+Consider consultation.
+Necessity and proportionality.
+Identify and assess data protection risks.
+Identify solutions to mitigate or eliminate risks.
+Sign off and record the outcomes of the DPIA.
+Integrate results into a project for continuous review.
+
+
+Identify the need for a DPIA.
+Even if a DPIA is not mandatory, it is good practice to conduct one for any new projects concerning the processing of personal data. A DPIA can assist your organisation to make informed decisions regarding data protection risks, to communicate with those concerned, and to demonstrate GDPR compliance. A DPIA should be conducted early in the project process in cohesion with the planning and developmental stage. If in doubt about whether a DPIA should be conducted, it is better to veer on the side of caution and complete the process as a pre-cautionary tool.
+Under Article 35(2) GDPR, an organisation must consult their Data Protection Officer (DPO), if they have one, when completing a DPIA. If an organisation does not have a DPO, they might consider bringing in external specialists to consult on or carry out the DPIA. Any advice from a DPO or external specialists should be recorded, and any action taken following such advice should also be documented. Additionally, any data processors involved in the new project must assist with the DPIA.
+
+
+Define the nature and characteristics of the processing.
+Following the decision to conduct a DPIA, the next step is considering the nature, scope, context, and purposes of the processing involved in the project. The nature of data concerned can help identify and mitigate risks prior to the project start date and can equally assess project viability from an early stage. It is also important to consider how data will be collected, stored, used, and retained for the project. The categories of data collected and who will have access to the data concerned should be considered. This step is crucial to understand what types of data the project is dealing with and how that data will be managed and protected.
+
+Consider consultation.
+At this stage, it might be beneficial to consult individuals whose data is involved in the project. Article 35(9) GDPR provides that a controller may seek the views of data subjects and their representatives where appropriate when carrying out a DPIA. This consultation may assist the controller in understanding the concerns of those potentially affected and improve organisation transparency. If the individuals concerned are not yet known, a general public consultation process may be beneficial. It is constructive to get the opinions of internal stakeholders involved in the project, such as those responsibility for information security.
+
+Necessity and Proportionality.
+An organisation must evaluate whether there are alternative options available, carrying less risk from a data protection standpoint, to meet the project objectives. If there is one, the new project should follow that route. The European Data Protection Board recommends that a consideration of how data protection compliance is managed within the organisation can indicate necessity and proportionality. This includes considering how the organisation manages data quality and data minimisation. While also taking into consideration how the organisation supports individual rights and ensures processor compliance, and what safeguards are present for international transfers.
+
+Identify and assess data protection risks.
+This stage in the DPIA considers what impact on individuals or any potential harm or damage which may arise from the processing concerned. This includes physical, emotional, or material damage. Such damage can include loss of control over personal data, discrimination, fraud, economic loss, reputational damage, or any significant social or economic disadvantage.
+Risks should be assessed objectively using a two-pronged approach:
+
+The severity of the risk.
+The likelihood of harm.
+
+Severity of risk should be measured from minimal impact to serious harm. Whereas the likelihood of risk should be measured from the remote chance of occurring to likely to occur. Importantly, a risk can still be classed as a high risk even where it is not guaranteed to occur. To constitute a high risk, the risk must be more than remote, and its impact must be significant or very serious. Furthermore, a risk which has minor impact but has a high probability of being widespread can still constitute a high risk. When assessing risks, it may be beneficial to consider the impact of regulatory action, reputational damage for the organisation, and loss of public confidence.
+
+Identify solutions to mitigate or eliminate risks.
+This stage of the DPIA process concerns balancing the benefits to individuals and the organisation from the project against the data protection risks associated for individuals and the organisation. Not all risks can be eliminated once identified but a DPIA enables mitigation of risks. Each risk identified should be considered with an aim of reducing that risk. Solutions could include reducing the scope of the processing, reducing collection of data to what is strictly necessary, reducing retention periods, adopting further security measures, updating staff training, anonymising or pseudonymising data if possible. Also updating privacy notices, providing an opt-out, formulating data sharing agreements, and perhaps using a different technology. This list is non-exhaustive as data privacy solutions are distinct to each organisation. When considering these solutions, the viability, costs, and benefits of each should be analysed to determine its appropriateness. For example, anonymisation is a beneficial risk mitigator but it may be out of budget for many organisations. It may not be possible to provide a solution for each risk and these risks may be accepted if they are proportionate. Any decisions to accept risks must be justified and recorded. If a DPIA cannot identify any solutions to mitigate the high risks identified, the relevant Supervisory Authority must be consulted.
+
+Sign off and record the outcomes of the DPIA.
+At this stage, the DPO should request further consultancy to advise on whether the proposed project is GDPR compliant and can move forward. If an organisation decides not to follow the advice of the DPO, this must be recorded and justified. The same applies to any external specialists consulted. Every step in the DPIA must be recorded to ensure its thorough completion and to reassure stakeholders that data protection risks have been appropriately considered. A record of the DPIA is crucial if the Supervisory Authority comes knocking. A final DPIA report is not required but it is good practice. Such a report includes records from each stage in the process, conclusions reached, justifications, a summary of the project and how the project will impact data protection.
+It may be beneficial to publish the findings of the DPIA, particularly if the organisation is a public body. Publication of the DPIA is not mandatory but it can help foster public trust in the organisation and demonstrate accountability and transparency. A publication can include a simple summary of the DPIAs main findings, particularly where the full DPIA contains sensitive information. A DPIA does not per se require a formal sign-off but it may be needed where it recommends significant changes to the proposed project or if it recommends accepting significant risks. At this stage, an organisation can get a clear view of the viability of the project and whether it requires abandonment and complete reconsideration.
+
+Integrate the outcomes into the project for continuous review.
+The findings of the DPIA must be integrated into the proposed project. It may be necessary to adjust plans to give effect to the solutions identified. Therefore, it is important to complete the DPIA at an early stage in the project’s life cycle. The risks identified in the DPIA must be consistently reviewed as such risks may change or creep back up as the project evolves. If there is a significant change in the project proposed, a further DPIA may be necessary. 
+So, what next? 
+For any new projects involving processing of personal data, a DPIA should always be in the back of an organisations mind. A DPIA is a great way to not only demonstrate GDPR compliance and prevent hefty fines, but also maintains an organisation’s reputation and shows the public that they take data protection seriously. To conclude, the crucial point is – if in doubt, a DPIA should always be conducted.
+
+",Jade Van Standen

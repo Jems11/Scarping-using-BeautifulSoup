@@ -1,0 +1,18 @@
+,Title,Details,Author
+0,Service Providers Beware! New liabilities are around the corner.,"
+
+I recently was made aware of a large Irish hosting provider who refused to sign a data processor contract, based on legal advice. Clearly, the advice given was that by signing the contract, that hosting provider would introduce a significant degree of liability with regards to the personal data it hosted, with the data controller in question.
+
+Now, logically, the data controller should look elsewhere for its hosting partner. It's never a good sign when a service provider is not prepared to step up to its own obligations in Data Protection law, but, currently in Europe, without such a contract, the data controller maintains full liability, in the event of a breach caused by that third party.
+Clearly mindful of this scenario, the European Union is looking to close this gap in the new General Data Protection Regulation (GDPR), expected to come on in Q1 next year. Whilst final wording is not yet defined, the primary trust of shared liability seems well informed at this point. So let's take a closer look, as this will affect a huge number of companies globally.
+
+Data Security
+Both controllers and processors will be expected to provide an 'appropriate' level of security for personal data, related to the risk of processing itself. Therefore more high risk data will be expected to have heightened degrees of security. As a result controllers and processors will be expected to complete risk assessments together, for each customer. 
+This becomes a particular challenge for the highly commoditised cloud computing model. Based on shared environments and multi-tenant environments, it could easily be envisaged that cloud computing costs may increase, particularly if cloud providers decide to implement the same, stiff security model for all customers.
+For smaller SMEs in IT, the cost of sale, as well as the cost of implementation will increase dramatically, for similar reasons, as more expertise and infrastructure will be required.
+Mitigating Liability
+Ultimately, processors will be expected to engage with controllers during the planning phase of any new project, and prepare accordingly. This will involve completing Privacy Impact Assessments together, calculating and describing how they will account for privacy for the affected data subjects.
+In addition, the actual data processor contracts themselves will, naturally, become more complex, as the need to tease out the detail of the processing becomes more prescriptive, to fully define the nature of the shared liability. Again this is a particular headache for SMEs, particularly those on the lower end where normal business is often conducted without any particular commercial contract, service level agreements, and indeed without necessary insurance. Once again, the sharing of liability will introduce significant costs to ensure, not only compliance, but protecting one's business.
+Overall this new direction is welcome, from the perspective of the data subject. Most organisations, frankly do not have a clue where their personal data is most of the time. In particular controls around service providers is often weak outside of the scope of SLAs. The actual controls needed to ensure the data is only processed for specific purpose is frequently not in place, creating many risks. Indeed, most hacks and data breaches are caused by lax processors.
+The new legislation will introduce onerous obligations on processors, but in our opinion, given that the value of personal data is only increasing, this more detailed approach to controlling the processing of data will become a norm, in time, as opposed to a headache, right now.
+",Mike Morrissey

@@ -1,0 +1,56 @@
+,Title,Details,Author
+0,Information Security: Protecting your information from Cyber Threats,"
+
+
+People are often confused by the differences between Cyber Security and Information Security. Cyber Security is a specific type of information security that refers to the ways that organisations protect digital information. In 2020, due to the Covid-19 pandemic, Cyber Security is more important than ever, with a growing number of cyberattacks, malware, disinformation and data breaches. The starting point for mitigating against such risks is to have a well thought through Internet Acceptable Use Policy.  Information Security is a general term for the way organisations and individuals protect their valuable assets, therefore Cyber Security would be included under the category of Information Security. 
+
+What is Information Security?
+Information security can take many forms; including:
+
+Hard copy data held on paper
+Data stored electronically in computer systems, also known as Data at Rest
+Data stored using electronic media such as USB drives, disks and tapes, otherwise known as Data in Use
+
+The data kept by a business that must be stored securely is often personal information. Personal information is any information about any living, identifiable individual. The organisation is legally responsible for this and its storage, protection and use are governed by national and international law.
+
+
+Organisations generally maintain inventories of all important information assets upon which it rely. However, companies will recognise that there are risks associated with employees, customers, contractors and other third parties accessing and handling information in order to conduct operations. For example, a significant portion of information breaches are from laptops and smartphones.
+Organisations therefore have a responsibility to protect the information it holds and processes using controls appropriate to the sensitivity of the information involved. Only by classifying information according to a documented scheme can the correct level of protection be applied. 
+Information Classification
+
+
+The company Information Security Classification Scheme requires information assets to be protectively marked into one of 3 classifications. The way the document is handled, published, moved and stored will be dependent on this scheme.
+The Three classes of information are:
+
+Level O- Public (or unclassified): Much of the information held by an organisation is freely available to the public via established publication methods. Such data has no security classification and will not be assigned a formal owner or inventoried.
+Level 1- Restricted: The disclosure of restricted information to unauthorised persons could create/result in significant embarrassment to an organisation and potential legal consequences. This type of information is typically handled by middle management and above, with some employees lower down given access in specific circumstanes. 
+Level 2- Confidential: The highest level of classification is Confidential. This is reserved for highly sensitive information which would cause major reputational and financial loss if it were lost or disclosed to the wrong people. This type of information will be tightly controlled by senior management and in many cases, numbered copies of documents will be distributed according to procedures set out by the company.
+
+Both restricted and confidential information cannot be disclosed to any other person or organisation via any insecure method, including via paper, telephone, email, social media, instant messaging, or verbally. When information is disclosed or shared with third parties, it should be done in line with your company's document sharing protocol. 
+It is usually a disciplinary offence to share restricted or confidential information to an unauthorised person. Any reasons that you may believe this has occurred in your company should be reported immediately.  Similarly any transfer of organisation information, with other organisations must comply with all legal, regulatory and organisation policy requirements.  
+The decision about which classification an information asset should fall into is based on the following criteria:
+
+Legal requirements that must be complied with
+Value to the organisation
+Criticality to the organisation
+Sensitivity to unauthorised disclosure or modification
+
+User Responsibilities
+An organisation needs to spend a significant amount of time and money to lessen security risks and reduce vulnerabilities in its information, but much still depends on the user of the networks and systems and has the responsibility in ensuring a degree of care is exercised in their day to day roles. 
+There have been many high profile security breaches that have been largely caused by unauthorised access to user accounts resulting from passwords being stolen or guessed. An example being in 2016, when over 5,000 email and password combinations belonging to employees working for companies registered with the Financial Times Stock Exchange were found on Darknet websites for sale and public publishing. These were obtained because many employees were using the same credentials for third party websites.
+Best practices that users that users can follow in ensuring maximum security of information they've access to:  
+
+Use a strong password, which is in line with the rules of the company policy
+Never tell anyone your password or allow anyone else to use your account
+Don’t record your password in writing or electronically, such as in a file or email
+Avoid using the same password for other user accounts, either personal or business-related
+Ensure that any unattended PC or device to the company network is locked or logged out
+Leave nothing on display that may contain access information, such as login names and passwords
+Inform IT if any changes to your role require new access privileges
+
+Software Security
+Any installed software programs you use at work should be registered in the name of the organisation. Purchased software is a corporate asset and licenses will frequently be reused as the shape of the organisation changes. It is against the law to copy corporate software, apart from backups, or install it for use on non-corporate machines, such as at home.
+The company's IT department will maintain a register of all licensed software within the organisation, as well as licensed copies of media such as CDs and DVDs. You must not install any software licensed to you personally on an organisation’s device. In the event that a software program is no longer required, the IT Service Desk should be informed. The software will then be removed from the machine in question.
+Got any questions regarding how Sytorus can help mitigate against risks imposed on your Information Security? Click on the button below to schedule a meeting with a member of the team. 
+
+",Colm Kelly

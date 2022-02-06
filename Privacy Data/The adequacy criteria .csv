@@ -1,0 +1,27 @@
+,Title,Details,Author
+0,The adequacy criteria.,"
+
+As we all know at this stage model contracts are to be used when transferring information outside of the EU. To refresh people’s memory, there are two versions of these,
+
+
+A contract between a Data Controller in the EEA and a Data Controller outside the EEA;
+A contract between a Data Controller in the EEA and a Data Processor outside the EEA.
+
+Within the contracts, a Data Controller in the EEA is known as a data exporter, whilst the party outside the EEA is known as a data importer.
+The key protections in the Model Contract are:
+
+Adherence to data protection rules- The data importer agrees to process the data in accordance with 'mandatory data protection principles’;
+Transparency- The data exporter agrees to make available to a Data Subject, upon request, a copy of the contract;
+Cooperation- Both the data exporter and the data importer agree to cooperate with all reasonable enquiries from Data Subjects;
+Liability- The data exporter and the data importer agree that Data Subjects shall have the right to sue for damages arising from a data protection breach in this contract.
+
+Having all this in place is only the first step.  There is a general rule that personal data cannot be transferred to third countries unless that country ensures an adequate level of data protection.  So what does adequacy look like?The “adequacy” test relates to the scope of the proposed transfer of personal data, including:
+
+the nature of the data
+the purpose of the transfer
+the laws in that country, and
+the security and social stability of that destination.
+
+The challenge for companies then becomes one of ensuring that that they have the necessary polices and controls in place in order to protect the data. Fundamentally, this becomes an assessment of the data processors data protection practices and this is where the challenge is in the absence of safe harbor. ConclusionOne could very easily conclude that ensuring that a data processor outside of the EEA should be assessed for adequacy is a prudent and logical step in any event, rather than relying on a self-certified agreement. If the last few days have taught us anything, it is not to rely on self-certification and check for yourself.
+ 
+",John Ghent

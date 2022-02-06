@@ -1,0 +1,49 @@
+,Title,Details,Author
+0,"The penny is dropping in the financial sector, but more needs to be done to ensure GDPR compliance","
+
+ 
+
+When the General Data Protection Regulation (GDPR) comes into force in May 2018, it is expected to have a significant effect on the financial sector, which processes billions of data transactions and financial records annually. Broadly speaking, whilst financial institutions are aware of the forthcoming changes and most accept that they'll be among the first in the firing line, they don't all seem to recognise the amount of work involved or the time it will take to become GDPR compliant.
+Don't assume you're covered
+Having to abide by strict international regulations isn't new to financial institutions, but familiarity with regulations might lead some to mistakenly assume that they will already be covered when the GDPR comes into force next year.
+There is a perception among some financial institutions that the GDPR ""won't impact our organisation"". This is due to a few common misunderstandings of the legislation, including:
+
+We are ISO 27001 certified so we will automatically comply
+We have a robust IT security system in place already, so we'll be covered
+We have plenty of time to implement any required changes
+
+INCORRECT!
+
+Whilst being ISO 27001 certified provides an excellent starting point for achieving the technical and operational requirements necessary within the new legislation, an organisation must meet certain additional requirements to be fully GDPR compliant.
+The GDPR doesn't just apply to electronic data records, obligations of security and confidentiality also apply to manual and paper personal records so having a robust IT security system isn't enough to ensure GDPR compliance.
+The clock is ticking and, with so much to do, even companies which have made a start may struggle to be 100% compliant before the looming deadline. As the Irish Commissioner stated, ""it will not be possible to get ready for the GDPR in a couple of months"". Companies will have to establish their full risk profile based on their data processing activities, implement their entire Privacy Management System from scratch, roll out training and then maintain the regular and mandatory logging of data processing activities.
+
+Time frames will differ for each organisation and will be dependent on a number of factors such as how complex the organisation is, the volumes of personal and sensitive personal data being processed and how much of the data processing is outsourced. With so much to get done, it's best to get started…
+Getting started - does your organisation need a DPO?
+First, you need to ascertain whether your organisation needs to appoint a dedicated Data Protection Officer (DPO). A company must designate a DPO where:
+
+the processing is carried out by a public authority or body
+the core activities of the controller or the processor consist of processing operations which, by virtue of their nature, their scope and/or their purposes, require regular and systematic monitoring of data subjects on a large scale
+the core activities of the controller or the processor consist of processing on a large scale of special categories of data
+
+Map your organisation's data processes
+Once you have appointed a DPO or a have dedicated go-to resource to manage your company's obligations under the GDPR, you need to map the current data processing activities within your organisation. This exercise should prompt questions such as:
+
+Is this sensitive personal data?
+What lawful processing condition am I referencing?
+Do I have consent?
+Is profiling involved?
+Where is the data held, and is it encrypted?
+How long is data retained for, and what is the specific purpose of retaining the data?
+If there was a Subject Access Request, could every piece of personal data be retrieved from third parties, compiled and redacted within the new tightened 30-day timeframe?
+
+The key challenge for financial organisations will be to establish the differences between their current practices and the new GDPR requirements. Specific new GDPR requirements include a reduced subject access request deadline, mandatory logging of data processing activities, new requirements around consent and the mandatory requirement for Privacy Impact Assessments.
+Generate a risk profile
+As you are identifying your organisation's data processing activities and comparing current practice with the new requirements of the GDPR, this should begin to generate a risk profile, highlighting where there are vulnerabilities, the policies required in which areas of the business, which practices need to be stopped or modified, what level of training is required throughout the organisation, what actions need to be taken across the organisation and where you may require additional resource.
+This might seem like a huge undertaking, but financial institutions are generally in a better starting place than many other sectors due to their current use and experience of risk management. The financial sector is already a heavily regulated environment where compliance is extremely important. Typically, large financial institutions benefit from a dedicated compliance team which is tasked with ensuring compliance across the various areas of the business. Organisations of this size also often already have sophisticated systems in place to undertake training, carry out real time logging and produce audit trails, as well as having secure IT systems in place which may only need minor tweaking to comply with the new GDPR requirements.
+However, this strong starting point is what may lead to a false sense of security, with assumptions being made that the GDPR will not affect them. The internal compliance team may also already be busy with the requirements imposed on them by the Financial Regulator, resulting in the GDPR not receiving the time it deserves. With so much to consider and limited time remaining, what DPOs need is a system which can flag-up areas of risk and help build compliance into activities from the beginning, as well as allow quick demonstration of compliance in one simple click, should the ICO come knocking.
+Introducing PrivacyEngine 
+To reflect the growing needs of companies facing large scale requirements to assess and change a significant number of processes and IT systems in order to be GDPR compliant, Sytorus developed PrivacyEngine, a cloud-based SaaS product. Designed to simplify compliance with data protection legislation and to provide one-click access to the evidence necessary to demonstrate this to the ICO in the event of an investigation, PrivacyEngine is simple to use but provides a comprehensive, structured framework to manage your company's compliance with the GDPR, taking some of the pressure and stress off internal teams.
+If you'd like to find out how Sytorus' PrivacyEngine can support your internal teams in managing GDPR compliance on an ongoing basis, contact us on:
+Dublin team: +353 (0)1 683 3314 / email info@sytorus.com London team: 0207 936 9442 / email info@sytorus.co.uk
+",John Ghent

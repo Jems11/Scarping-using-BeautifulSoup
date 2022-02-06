@@ -1,0 +1,75 @@
+,Title,Details,Author
+0,The Data Protection Commission Cookie Sweep: Webinar Key Points,"
+
+Background to the Cookie Sweep
+
+Cookie Sweep commenced on the 15th of August 2019 
+Data Protection Commission (DPC) wanted to examine compliance with Regulation 5 of the ePrivacy Regulations 
+The Regulations protect privacy in electronic communications
+Sweep sought to examine how controllers obtained the consent of users for the deployment of Cookies
+Standard consent under GDPR must be 'freely given, specific, informed, unambiguous'
+Controllers and Participants were chosen across a range of sectors and based on the popularity of their websites
+
+
+The Data Protection Commission Cookie Sweep: Everything You Need To Know
+
+What is the Law?
+
+Regulation 5(3) of the ePrivacy Regulations (SI No. 336/2011) 
+A person shall not use an electronic communications network to store information, or to gain access to information already stored in the terminal equipment of a subscriber or user, unless:
+
+The subscriber or user has given his or her consent to that use, and 
+The subscriber or user has been provided with clear and comprehensive information in accordance with the Data Protection Acts which: is both prominently displayed and easily accessible, and includes, without limitation, the purposes of the processing of the information.
+
+
+
+Are there any Exemptions? 
+
+Regulation 5(5)
+
+
+The 'communication' exemption: Cookies whose sole purpose is for carrying out the transmission of a  communication over a network. For example a load balancing cookie used to distribute network traffic across different servers.
+The 'strictly necessary' exemption: Applies to a service delivered over the internet such as a website or an app and in addition the service must of been explicitly requested by the user. For example a session cookie used to keep track of items that the user places in an online shopping basket, these cookies expire at the end of the session 
+
+Key figures and findings of the Cookie sweep
+
+40 controllers targeted, 38 responses
+10 controllers deployed pre-checked boxes or sliders- which is not compliant
+Two thirds of controllers relying on 'implied' consent
+Just under one third of controllers had already identified improvements 
+Controllers keen to obtain updated guidance from the DPC  
+
+Concerns arising from Cookies Sweep
+
+Use of 'implied' consent model to set cookies 
+Badly designed or barely visible banners or poor presentation of information
+Non-exempt cookies, including dozens of ad trackers, set without consent 
+Pre-checked boxes or sliders set to 'ON' position 
+Lack of clarity on how consent can be withdrawn 
+Inability for user to reject cookies without going to browser settings
+Interfaces designed to 'nudge' user into accepting cookies (e.g. 'OK, Got it!') 
+Advertising trackers on health-related websites
+Inadequate information about tracking technologies such as pixels 
+Cookies with very long lifespans (100 years and longer) and no clarity as to their purpose
+Some lack of awareness about joint controllership
+Confusion between S.I 336/2011 and EU's proposed ePrivacy Regulation
+Quality of information provided about cookies and the identity of the controller(s) 
+
+How can controllers comply? 
+
+It is acceptable to provide information about all types of cookies (by function) in the first layer and to provide an ACCEPT ALL option once there is an equally prominent REJECT ALL option
+Controllers may also choose to add a 'manage settings' option to the interface to provide more detailed information and more granular consents in second layer 
+Overall the DPC are not prescriptive about how cookie banners or consent management tools are designed- controllers will policy and design choices to make 
+
+Next steps
+
+On the 6th of April 2020, the guidance and sweep report was distributed to controllers, representative bodies, compliance organizations and to the DPC's DPO network (over 1,800 DPOs) 
+A team within the Special Investigations Unit is actively examining the practices of new controllers across every sector on a daily basis
+There is a deeper technical examination now taking place in relation to tracking cookies 
+Controllers can expect enforcement action where they fail to bring their practices into compliance
+
+The deadline of the 5th of October 2020 for when controllers will need to be fully compliant with Regulation 5 of the ePrivacy Regulations. 
+If you have any queries regarding the Cookie Sweep and how your organisation can become compliant, you  can book a meeting with a member of the Sytorus Team by clicking on the link below: 
+
+ 
+",John Ghent
